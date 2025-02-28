@@ -11,5 +11,13 @@
             "email": "elkadrey@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "elkadrey/version-bump": "^1.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "elkadrey/version-bump": true
+        }
+    },
+    "version": "1.0.1"
 }
