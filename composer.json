@@ -1,0 +1,15 @@
+{
+    "name": "elkadrey/version-bump-test",
+    "autoload": {
+        "psr-4": {
+            "Elkadrey\\VersionBumpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elkadrey",
+            "email": "elkadrey@gmail.com"
+        }
+    ],
+    "require": {}
+}
